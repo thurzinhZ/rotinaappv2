@@ -1,6 +1,0 @@
-{
-  "name": "RotinaApp",
-  "description": "Gerenciador de tarefas com lembretes automáticos baseados em geolocalização e sincronização com Supabase.",
-  "requestFramePermissions": ["geolocation"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
